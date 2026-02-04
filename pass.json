@@ -1,0 +1,46 @@
+{
+  "formatVersion": 1,
+  "passTypeIdentifier": "pass.com.free.rpas",
+  "serialNumber": "PC2603489118",
+  "teamIdentifier": "FREEPASS",
+  "organizationName": "Transport Canada",
+  "description": "RPAS Pilot Certificate",
+  "logoText": "RPAS Pilot Certificate",
+  "foregroundColor": "rgb(0,0,0)",
+  "backgroundColor": "rgb(255,255,255)",
+
+  "generic": {
+    "primaryFields": [
+      {
+        "key": "name",
+        "label": "Pilot Name",
+        "value": "Mohammad Mahedi Hasan"
+      }
+    ],
+    "secondaryFields": [
+      {
+        "key": "type",
+        "label": "Certificate Type",
+        "value": "RPAS Pilot – VLOS Basic"
+      }
+    ],
+    "auxiliaryFields": [
+      {
+        "key": "cert",
+        "label": "Certificate #",
+        "value": "PC2603489118"
+      },
+      {
+        "key": "issued",
+        "label": "Issued",
+        "value": "Feb 3, 2026"
+      }
+    ]
+  },
+
+  "barcode": {
+    "format": "PKBarcodeFormatQR",
+    "message": "PC2603489118",
+    "messageEncoding": "iso-8859-1"
+  }
+}
